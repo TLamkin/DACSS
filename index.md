@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to My GitHub Page for DACSS Submissions and Materials
 
-You can use the [editor on GitHub](https://github.com/TLamkin/DACSS/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+If you have any questions or ideas, I would love to hear them - you can always reach me at [tlamkin@umass.edu](mailto:tlamkin@umass.edu0.
 
 ### Markdown
 
